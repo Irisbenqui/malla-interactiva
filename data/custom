@@ -1,0 +1,59 @@
+{
+  "año1": {
+    "s1": [
+      ["Fonética y Fonología españolas", "", 6, 0, "", [], "P"],
+      ["Lingüística general", "", 6, 0, "", [], "P"],
+      ["Cultura y literatura inglesa", "", 6, 0, "", [], "P"],
+      ["Bases culturales del mundo occidental", "", 6, 0, "", [], "P"],
+      ["Literatura española. Edad Media", "", 6, 0, "", [], "P"]
+    ],
+    "s2": [
+      ["Gramática del español: Morfología", "", 6, 0, "", [], "P"],
+      ["Lengua Latina I", "", 6, 0, "", [], "P"],
+      ["Cultura y sociedad contemporáneas de las comunidades angloparlantes", "", 6, 0, "", [], "P"],
+      ["Teoría y crítica literarias", "", 6, 0, "", [], "P"],
+      ["Literatura española. s.XVI", "", 6, 0, "", [], "P"]
+    ]
+  },
+  "año2": {
+    "s3": [
+      ["Sintaxis del español", "", 6, 0, "", [], "P"],
+      ["Español lengua extranjera (I)", "", 6, 0, "", [], "P"],
+      ["Retórica y métrica literarias", "", 6, 0, "", [], "P"],
+      ["Lengua Latina II", "", 6, 0, "", [], "P"],
+      ["Literatura española. s. XVII (I)", "", 6, 0, "", [], "P"]
+    ],
+    "s4": [
+      ["Análisis Sintáctico de Textos en Español", "", 6, 0, "", [], "P"],
+      ["Textos literarios contemporáneos en lengua inglesa", "", 6, 0, "", [], "P"],
+      ["Cultura clásica", "", 6, 0, "", [], "P"],
+      ["Cultura material y mentalidades colectivas en la historia de España", "", 6, 0, "", [], "P"],
+      ["Literatura española. s. XVII (II)", "", 6, 0, "", [], "P"]
+    ]
+  },
+  "año3": {
+    "s5": [
+      ["Semántica del Español", "", 6, 0, "", [], "P"],
+      ["Latín vulgar", "", 6, 0, "", [], "P"],
+      ["Tradición Clásica", "", 6, 0, "", [], "P"],
+      ["Literatura española. S.XVIII-XIX", "", 6, 0, "", [], "P"]
+    ],
+    "s6": [
+      ["Pragmática del Español", "", 6, 0, "", [], "P"],
+      ["Historia de la lengua española", "", 6, 0, "", [], "P"],
+      ["Literatura Hispanoamericana", "", 6, 0, "", [], "P"],
+      ["Español lengua extranjera (II)", "", 6, 0, "", [], "P"]
+    ]
+  },
+  "año4": {
+    "s7": [
+      ["Literatura española. ss. XX-XXI (I)", "", 6, 0, "", [], "P"],
+      ["Herramientas informáticas para la filología", "", 6, 0, "", [], "P"]
+    ],
+    "s8": [
+      ["Literatura española. ss. XX-XXI (II)", "", 6, 0, "", [], "P"],
+      ["Léxico del español", "", 6, 0, "", [], "P"],
+      ["Trabajo de Fin de Grado", "", 6, 0, "", [], "P"]
+    ]
+  }
+}
