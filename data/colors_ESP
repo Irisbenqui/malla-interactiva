@@ -1,0 +1,19 @@
+{
+  "Estudios sincrónicos del español": ["#3498db", "Estudios sincrónicos del español"],
+  "Estudios diacrónicos del español": ["#2ecc71", "Estudios diacrónicos del español"],
+  "Lingüística aplicada": ["#1abc9c", "Lingüística aplicada"],
+  "Lingüística general": ["#9b59b6", "Lingüística general"],
+  "Lingüística y comunicación": ["#e67e22", "Lingüística y comunicación"],
+  "Literatura en español": ["#e74c3c", "Literatura en español"],
+  "Teoría y crítica literarias": ["#f39c12", "Teoría y crítica literarias"],
+  "Literatura comparada": ["#8e44ad", "Literatura comparada"],
+  "Cultura hispánica": ["#16a085", "Cultura hispánica"],
+  "Otras lenguas y culturas": ["#34495e", "Otras lenguas y culturas"],
+  "Mundo clásico": ["#d35400", "Mundo clásico"],
+  "Lenguas clásicas": ["#c0392b", "Lenguas clásicas"],
+  "Literaturas y culturas modernas": ["#2980b9", "Literaturas y culturas modernas"],
+  "Traducción de lenguas modernas": ["#27ae60", "Traducción de lenguas modernas"],
+  "Materias instrumentales": ["#7f8c8d", "Materias instrumentales"],
+  "Trabajo fin de grado": ["#95a5a6", "Trabajo fin de grado"],
+  "Prácticas": ["#bdc3c7", "Prácticas"]
+}
