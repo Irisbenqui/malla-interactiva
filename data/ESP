@@ -1,0 +1,51 @@
+{
+  "s1": [
+    ["Fonética y fonología españolas", "FFE-001", 6, 0, "Estudios sincrónicos del español", [], "I"],
+    ["Lingüística general", "LIN-001", 6, 0, "Lingüística general", [], "I"],
+    ["Cultura y literatura inglesa", "CLI-001", 6, 0, "Literaturas y culturas modernas", [], "I"],
+    ["Bases culturales del mundo occidental", "BCO-001", 6, 0, "Cultura hispánica", [], "I"],
+    ["Literatura española. Edad Media", "LEM-001", 6, 0, "Literatura en español", [], "I"]
+  ],
+  "s2": [
+    ["Gramática del español: Morfología", "GEM-002", 6, 0, "Estudios sincrónicos del español", ["FFE-001"], "P"],
+    ["Lengua latina I", "LLI-001", 6, 0, "Lenguas clásicas", [], "P"],
+    ["Cultura y sociedad contemporáneas de las comunidades angloparlantes", "CSC-001", 6, 0, "Literaturas y culturas modernas", [], "P"],
+    ["Teoría y crítica literarias", "TCL-001", 6, 0, "Teoría y crítica literarias", [], "P"],
+    ["Literatura española. Siglo XVI", "LES16-001", 6, 0, "Literatura en español", ["LEM-001"], "P"]
+  ],
+  "s3": [
+    ["Sintaxis del español", "SIE-001", 6, 0, "Estudios sincrónicos del español", ["GEM-002"], "I"],
+    ["Español lengua extranjera I", "ELE-001", 6, 0, "Lingüística aplicada", [], "I"],
+    ["Retórica y métrica literarias", "RML-001", 6, 0, "Teoría y crítica literarias", [], "I"],
+    ["Lengua latina II", "LLII-001", 6, 0, "Lenguas clásicas", ["LLI-001"], "I"],
+    ["Literatura española. Siglo XVII (I)", "LES17-001", 6, 0, "Literatura en español", ["LES16-001"], "I"]
+  ],
+  "s4": [
+    ["Análisis sintáctico de textos en español", "ASTE-001", 6, 0, "Estudios sincrónicos del español", ["SIE-001"], "P"],
+    ["Textos literarios contemporáneos en lengua inglesa", "TLC-001", 6, 0, "Literaturas y culturas modernas", [], "P"],
+    ["Cultura clásica", "CCL-001", 6, 0, "Mundo clásico", [], "P"],
+    ["Cultura material y mentalidades colectivas en la historia de España", "CMM-001", 6, 0, "Cultura hispánica", [], "P"],
+    ["Literatura española. Siglo XVII (II)", "LES17-002", 6, 0, "Literatura en español", ["LES17-001"], "P"]
+  ],
+  "s5": [
+    ["Semántica del español", "SEM-001", 6, 0, "Estudios sincrónicos del español", [], "I"],
+    ["Latín vulgar", "LVG-001", 6, 0, "Lenguas clásicas", [], "I"],
+    ["Tradición clásica", "TCL-002", 6, 0, "Mundo clásico", [], "I"],
+    ["Literatura española. Siglos XVIII-XIX", "LES18-001", 6, 0, "Literatura en español", ["LES17-002"], "I"]
+  ],
+  "s6": [
+    ["Pragmática del español", "PES-001", 6, 0, "Estudios sincrónicos del español", ["SEM-001"], "P"],
+    ["Historia de la lengua española", "HLE-001", 6, 0, "Estudios diacrónicos del español", [], "P"],
+    ["Literatura Hispanoamericana", "LHA-001", 6, 0, "Literatura en español", [], "P"],
+    ["Español lengua extranjera II", "ELE-002", 6, 0, "Lingüística aplicada", ["ELE-001"], "P"]
+  ],
+  "s7": [
+    ["Literatura española. Siglos XX-XXI (I)", "LES20-001", 6, 0, "Literatura en español", ["LES18-001"], "I"],
+    ["Herramientas informáticas para la filología", "HIF-001", 6, 0, "Materias instrumentales", [], "I"]
+  ],
+  "s8": [
+    ["Literatura española. Siglos XX-XXI (II)", "LES20-002", 6, 0, "Literatura en español", ["LES20-001"], "P"],
+    ["Léxico del español", "LEX-001", 6, 0, "Estudios diacrónicos del español", [], "P"],
+    ["Trabajo de fin de grado", "TFG-001", 6, 0, "Trabajo fin de grado", [], "P"]
+  ]
+}
